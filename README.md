@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://github.com/tfbio/restaurant_web/blob/main/github/sample.jpg"/>
+   <img src="https://github.com/tfbio/componentizando-a-aplicacao/blob/main/github/sample.jpg"/>
 </p>
 <h1 align="center">React Movie Cards<h1>
   
